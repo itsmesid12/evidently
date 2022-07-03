@@ -9,7 +9,6 @@ import pandas as pd
 from dataclasses import dataclass
 
 from evidently.pipeline.column_mapping import ColumnMapping
-from datatime import datatime
 
 @dataclass
 class DatasetUtilityColumns:
